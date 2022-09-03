@@ -6,6 +6,22 @@ I was in my last year of university in Spring 2018. We were taking a class on in
 
 The idea of this post is to walk you through on how to pull togheter an investment deck, using our project as a guidance. I pray to God this is useful to somebody someday.
 
+- [El Chante. Please steal the idea.](#el-chante-please-steal-the-idea)
+  - [How the idea was born](#how-the-idea-was-born)
+  - [The investment decks](#the-investment-decks)
+    - [El Chante - Long Deck](#el-chante---long-deck)
+    - [El Chante - Short Deck](#el-chante---short-deck)
+  - [A walk-through the decks/pitch](#a-walk-through-the-deckspitch)
+    - [What's the idea](#whats-the-idea)
+    - [The Oportunity](#the-oportunity)
+    - [Our Solution: El Chante](#our-solution-el-chante)
+    - [Go to market](#go-to-market)
+    - [The competitive landscape](#the-competitive-landscape)
+    - [Business Model](#business-model)
+    - [Valuation](#valuation)
+    - [The Ask](#the-ask)
+  - [Closing thoughts](#closing-thoughts)
+
 ### How the idea was born
 
 My team was Carlos (El Salvador), Jihyun (South Korean), Alex Matters (Canadian), and Violeta Ivanovska (Bulgarian). Carlos, Jihyun and I took the investment deck.
