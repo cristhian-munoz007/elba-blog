@@ -2,11 +2,6 @@ import * as React from 'react';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 
-const sections = [
-  { title: 'Getting to know AWS', url: '/blog?post=aws-fi' },
-  { title: 'Interviewing in Costa Rica', url: '/blog?post=interviewing-in-costarica' },
-  { title: 'About', url: '/about' }
-];
 
 export default function Header() {
   
