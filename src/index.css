@@ -12,7 +12,7 @@ img[alt=awsDiagram] { width: 500px; }
 img[alt=smartGuy] { width: 550px; }
 img[alt=capTheorem] { width: 550px; }
 img[alt=cloudVendors] { width: 550px; }
-img[alt=ikeaWall] { width: 550px; height: 200px; }
+img[alt=ikeaWall] { width: 100%; height: 200px; }
 img[alt=satisfactionMeme] { width: 200px; height: 200px; }
 img[alt=CW] { width: 550px; height: 350px; }
 img[alt=nasaBaile] { width: 550px; height: 350px; }
@@ -23,19 +23,14 @@ code {
     monospace;
 }
 
-#container {
-  height: 200px;
-  width: 550px;
-  position: relative;
-}
 
 #text {
   z-index: 100;
-  position: absolute;
+  position: relative;
   color: black;
   font-size: 24px;
   font-weight: bold;
-  left: 250px;
-  top: 90px;
+  top: -120px;
+  height: 0px;
 }
 

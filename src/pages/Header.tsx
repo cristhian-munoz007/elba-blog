@@ -1,49 +1,30 @@
 import * as React from 'react';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
+import { Grid } from '@mui/material';
 
 
 export default function Header() {
   
   return (
-    <React.Fragment>
-      <div id='container'>
-      <Link href='/home'>
+    <Grid item justifyContent="center" spacing={2} sx={{ mt: 0 }} >
+      <Link href='/home' style={{ textDecoration: 'none' }}>
       <img
       id="image"
       alt='ikeaWall'
       src='http://cdn.rubelli.com/A23019_001/23019_1.420c.jpg'
+      
       ></img>
         <Typography id="text"
           component="h2"
           variant="h4"
           color="inherit"
           align="center"
-          noWrap
-          sx={{ flex: 1, color: "#4a4a4a" }}
+          sx={{ color: "#4a4a4a" }}
         >
           .Elba.
         </Typography>
         </Link>
-      </div>
-      {/*<Toolbar
-        component="nav"
-        variant="dense"
-        sx={{ justifyContent: 'space-between', overflowX: 'auto' }}
-      >
-        {sections.map((section) => (
-          <Link
-            color="#7b1fa2"
-            noWrap
-            key={section.title}
-            variant="body1"
-            href={section.url}
-            sx={{ p: 1, flexShrink: 0 }}
-          >
-            {section.title}
-          </Link>
-        ))}
-        </Toolbar>*/}
-    </React.Fragment>
+      </Grid>
   );
 }
