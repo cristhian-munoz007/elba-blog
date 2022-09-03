@@ -7,7 +7,7 @@ import { Grid } from '@mui/material';
 export default function Header() {
   
   return (
-    <Grid item justifyContent="center" spacing={2} sx={{ mt: 0 }} >
+    <Grid item justifyContent="center" sx={{ mt: 0 }} >
       <Link href='/home' style={{ textDecoration: 'none' }}>
         <img
           id="image"
