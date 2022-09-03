@@ -17,6 +17,8 @@ This post is about what I did to get acquinted with the cloud, and my thoughts o
 
 ---
 
+
+
 I've worked in investment banks and hedge funds, where the cloud is not really a massive thing partly because of the structure of the businesses, and partly because of the slow tech dinosaurs they are.
 
 Was always curious about it, and I mean, it sounded like the kind of thing that made tons of sense to business people, not necesarily to engineers. And since I like both business and tech, maybe I should've paid more attention earlier. Jokes on me.
