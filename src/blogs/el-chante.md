@@ -1,10 +1,10 @@
 ## El Chante. Please steal the idea.
 
-I use to work in a Venture Capital in Abu Dhabi. We basically invested in startups at various stages. You pitch to us, we like you and give you money and help you grow.
+I used to work in a Venture Capital in Abu Dhabi. We basically invested in startups at various stages. You pitch to us, we like you and give you money, and help you grow.
 
-I was in my last year of university in Spring 2018. We were taking a class on innovation, and the last part of the class was to put an investment deck together and pitch an startup idea. Since I was working exactly in that field, I felt very much in the zone! We worked on a project called **El Chante**.
+It was also my last year of university, Spring 2018. We were taking a class on innovation, and the last part of the class was to put an investment deck together and pitch an startup idea. Since I was working exactly in that field, I felt very much in the zone! We worked on a project called **El Chante**.
 
-The idea of this post is to walk you through on how to pull togheter an investment deck, using our project as a guidance. I pray to God this is useful to somebody someday.
+The idea of this post is to walk you through on how to pull togheter an investment deck, using our project as a guidance. It's not the best work, but I pray to God this is useful to somebody someday.
 
 - [El Chante. Please steal the idea.](#el-chante-please-steal-the-idea)
   - [How the idea was born](#how-the-idea-was-born)
@@ -26,9 +26,9 @@ The idea of this post is to walk you through on how to pull togheter an investme
 
 My team was Carlos (El Salvador), Jihyun (South Korean), Alex Matters (Canadian), and Violeta Ivanovska (Bulgarian). Carlos, Jihyun and I took the investment deck.
 
-There was also a debate component, because the class would also touch on Fintech regulation. Violeta and Alex took the debate, these guys are 2 of the smartest and strongest people I know. I'd never want to get in their way :) I recommend you don't either in case I invite you both to my weeding or something.
+There was also a debate component, because the class would also touch on Fintech regulation. Violeta and Alex took the debate, these guys are 2 of the smartest and strongest people I know. I'd never want to get in their way :).
 
-Anyway, Carlos and I came up with this idea called **El Chante**. We were trying to match young poeple in Costa Rica based on living preferences and etc so that they could team up and rent homes together. Mostly cause renting by yourself if you're below idk 27? is pretty much dumb and too expensive.
+Anyway, Carlos and I came up with this idea called **El Chante**. We were trying to match young poeple in Costa Rica based on living preferences and etc. so that they could team up and rent homes together. Mostly because renting by yourself if you're below idk 27? is pretty much dumb and too expensive.
 
 
 ### The investment decks
@@ -41,7 +41,7 @@ When you're trying to raise money from investors you need to come up with a pitc
 4. This is what we're worth based on our proyections
 5. This is how much we need from you and how much equity we'll give you in return.
    
-When you work in a venture capital you spend a good amount of time looking at these decks and figuring out how much BS it is. 
+When you work in a venture capital you spend a good amount of time looking at these decks and figuring out how much BS each one of them it is. 
 
 There's usually 2 decks: the long one and the short one. The short is for giving a presentation, the long one is a more extensive and marketing material once there is a bit of interest. 
 
@@ -72,14 +72,15 @@ Quick intro for what's the idea about and why it was born.
 
 *Transcript*
 
-El Chante is a platform for people to team up with a roommate and rent properties that otherwise would be unaffordable for them. The idea was born since most of our friends in Costa Rica and El Salvador live with their parents even thought they've said multiple times that they'd like to move away. What's the problem? Well, one of the problems... Money.
+El Chante is a platform for people to team up with a roommate and rent properties that otherwise would be unaffordable for them. The idea was born since most of our friends in Costa Rica and El Salvador live with their parents even thought they've said multiple times that they'd like to move away. What's the problem? Well, culture, money, and ease of finding a good place and a good configuration.
 
 
 #### The Oportunity
 
 We start switching into why it's a good idea, and what's the market we can take bites from. Show some big numbers that call attention, start globally and then narrow down to your specific market.
 
-There's two important things here:
+Important things here:
+
 1. Investors are looking for size (SanFran VCs at least need you to reach millions for them to put the money.)
 2. Investors are looking for growth (for example: oil is big, but it won't be in the future.)
 3. Investors are looking for quick turnover (can you reach your audience quickly and be in the market? timing is everything!)
@@ -89,7 +90,7 @@ In the US alone, this market is more than 160 billion dollars a year. With no si
 
 Yet, that's a region where the market is not as efficient and we could exploit that. Central America and the Caribbean are both regions with a similar family oriented culture, and with similar socioeconomic problems. 
 
-We're obviously not the size of the U.S. but we have a population growth rate that beats all other regions. We need to find a way for people to find mobility in other ways than traditional. 
+We're obviously not the size of the U.S. but we have a population growth rate that beats all other regions. We need to find a way for people to find mobility in other ways than traditional. That gives us both a socioeconomical problem to solve, and an opportunity.
 
 #### Our Solution: El Chante
 
@@ -98,7 +99,7 @@ Here comes papi and mami to solve the problem. This is self-explanatory.
 *Transcript:*
 What's missing in today's market is a centralized platform that allow people to explore a different type of mobility. The idea is to solve two main problems:
 
-1. Low turnover in the rental space (aka landlords not being able to rent their properties quick enough to yield good retunrs)
+1. Low turnover in the rental space (aka landlords not being able to rent their properties quick enough to yield good returns)
 2. People wanting to rent but not able to afford moving out and having to rely on word of mouth. Imagine if you could find your next roomate based on your cleanliness habits, and sleeping schedules, and interests, and places of work.
 
 **El Chante** aims to solve these 2 problems while saving time and money for both parties, hopefully reducing the amount of intermediaries needed for a single contract, and more than anything providing a safe environment for people to screen each other, their habits, and ultimately doing business (which in Latinoamerica is very hard to get).
@@ -119,7 +120,9 @@ Every year we're issuing 8% more construction permits. The real estate market is
  
 Unfortunately due to the inequalities in the country, we'll have more of the financially successful people investing in these homes, and renting them to the people already in that 40% plus the young population that (contrary to the rest of the world) is growing. 
 
-To all the above we should add that we already have a large amount of uninhabited homes. Which is a market completely separate from what we've been spoking about. If we manage to make these homes available to a new set of paired or grouped individuals we could tap on a $200 million a year market. Assumptions made.
+To all the above we should add that we already have a large amount of uninhabited homes. Which is a market completely separate from what we've been speaking about. 
+
+If we manage to make all these homes available to a new set of paired or grouped individuals we could tap on a $200 million a year market. Assumptions made.
 
 #### The competitive landscape
 
@@ -129,11 +132,11 @@ Here we chat about who's out there doing similar things. This shows we did the h
 
 We can split the market into quadrants. 
 
-Some market places allow to rent for short times, others for long time. Airbnb being short and OLX, Encuentra24 being long for example.
+Some market places allow to rent for short times, others for long time. Airbnb being short, while OLX and Encuentra24 being long for example.
 
-Some markets are vertical, meaning they specialize into renting of homes only like Airbnb. While others are horizontal, in Encuentra24 you can rent and sell everything from homes to cars, to your Playstation. While giving a terrible user experience.
+Some markets are vertical, meaning they specialize into renting of homes only like Airbnb. While others are horizontal, in Encuentra24 you can rent and sell everything from homes to cars, to your Playstation. All while giving a terrible user experience.
 
-**El Chante** would be the first vertical marketplace focusing on long term rental of homes only. And that'd come with advantages:
+**El Chante** would be the first vertical marketplace focusing on long term rental of homes only. And that'd differentiate us additionally by the fact that:
 
 1. We'd focus only on property, adjusting our processes, interfaces, legal, services, support, everything to homes.
 2. We're giving a safe environment where people get to chat and meet and establish relationships before paying or getting scammed like it happens in other platforms.
@@ -148,10 +151,9 @@ This says how you're going to charge and make money and etcera. This is importan
 
 *Transcript:*
 
-If we go with market sizing above. We could tap into a market of $224 million. If we rent a room at an average rate of $400
-and charge 8% fee we could look at a revenue of $1.2 million after 4 years of operation when reaching 37000 rooms rented. 
+If we go with market sizing above. We could tap into a market of $224 million. If we rent a room at an average rate of $400 and charge 8% fee we could look at a revenue of $1.2 million after 4 years of operation when reaching 37,000 rooms rented. 
 
-In the short term though, we'll need to invest in an aggressive marketing strategy in universities and campuses of transnationals in Free Trade Zones (like Sykes) that employ a lot of young people. 
+In the short term though, we'll need to invest in an aggressive marketing strategy in universities and campuses of transnationals in Free Trade Zones (like Sykes) that employ a lot of young people who live far from their workplace. 
 
 Also trying to reach bigger landlords, like big real estate companies that own lots of properties around the country. It's a very central place to reach lots of rental volume.
 
@@ -165,25 +167,30 @@ From here on it's all bullshit to be fair haha until the valuation!
 
 #### Valuation
 
-I wouldn't say that this is not also BS, but is by far the most chatted thing about in the industry and in TV shows and podcasts and the like. Our numbers are complete batazos because we obviously had no business. 
+I wouldn't say that this is not also BS, but is by far the most chatted about topic in the industry. Our numbers are complete batazos because we obviously had no business. 
 
-There are traditional ways of doing valuation. From the financial accounting and analysis textbooks. However, they went crazy in the US technology market. Every body was disregarding everything and just paying absurds amount of money. 
+There are traditional ways of doing valuation. From the financial accounting and analysis textbooks. However, they went crazy in the US technology market. Every body was disregarding everything and just paying absurds amount of money.
+
+Have you seen the market lately? Lots of things are happening, but also the market is correcting for this bubble.
 
 The two main traditional ways of doing a startup valuation are the following:
 
-1. **DCF** (discounted cash flow). You look at the proyected cash flow of the company for the next 5/10 years and try to estimate the value of that money today. There's a formula for it actually. This valuation is all about extrapolating what's the capacity of the buiness to have sales volume and simply move money around. Notice it's about revenues, **not profits**. The reasoning for that is that most companies don't make any money at first, they actually operate at a loss. They invest all their cash into growing, sometimes ruthlessly and whatever costs. And if you're an investor you kind of want and allow for that, so it'd be unfair to value a business based on profits if you're not really concerned about profits, but growth. 
+1. **DCF** (discounted cash flow). You look at the proyected cash flow of the company for the next 5/10 years and try to estimate the value of that money today. There's a formula for it actually. This valuation is all about extrapolating what's the capacity of the buiness to have sales volume and simply move money around. Notice it's about revenues, **not profits**. 
+   
+The reasoning for that is that most companies don't make any money at first, they actually operate at a loss. They invest all their cash into growing, sometimes ruthlessly and whatever costs. And if you're an investor you kind of want and allow for that, so it'd be unfair to value a business based on profits if you're not really concerned about profits, but growth. 
 
 
-2. **Comparables**. If it's hard to come up with a DCF, people use comparable companies that were bought or raised money at similar stages to this company. 
-For example, if Airbnb raised seed capital at a valuation of $100 million and they had $20,000 in revenue a year. El Chante has a revenue of $2000, since we generate a tenth of Airbnb's revenue, then we can say we are 10th of their value, aka $10m. This is an oversimplification. 
+2. **Comparables**. If it's hard to come up with a DCF, or you don't trust it, or you don't like the number you end up with :) you could use comparable companies and transactions too. The idea is to use comparable companies that were bought or raised money at similar stages to this company. You used that transaction to better estimate the value this company could have to the market, regardless of many other fundamentals.
+   
+For example, if Airbnb raised seed capital at a valuation of $100 million and they had $20,000 in revenue a year. El Chante has a revenue of $2000, since we generate a tenth of Airbnb's revenue and we're comparable, then we can say we are 10th of their value, aka $10m. This is an oversimplification. 
 
 *Transcript:*
 
-Based on our financial proyections and the cash flow we can expect, we can estimate a value of assets of $2.3m based on the typical formula. 
+Based on our financial proyections and the cash flow we can expect, we can estimate a value of assets of $2.3m today based on the typical formula. 
 
 #### The Ask
 
-Here's where you tell them what you want. How much money in exchange for how much ownership. You also tell them why the money you need. 
+Here's where you tell them what you want. How much money in exchange for how much ownership. You also tell them what you'll use the money for.
 
 *Transcript:*
 
@@ -193,11 +200,11 @@ Based on the valuation above, $100k means you'd own 5% of the company.
 
 ### Closing thoughts
 
-Lots of things can happen from here on. So i'll just stop cause it's long enough.
+Lots of things can happen from here on. So I'll just stop cause this note is already long enough.
 
-Also, there are a lot of innacuracies here, my wording is I'm sure not very correct if you're a marketing or finance person. But I'm not that lost and everything should make sense to you. 
+Also, there are a lot of innacuracies here, my wording is surely not 100% correct to a marketing or finance person. But I'm not that lost and everything should make sense to you. 
 
-Anyway, my biggest hope would be for anybody to steal this and do something.
+Anyway, my biggest hope would be for anybody to steal this and do something. Or use it as a guide for the flow of a pitch.
 
 ---
 

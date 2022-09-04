@@ -10,6 +10,7 @@ Below are a few points that pretty much I try to remember myself every so often.
   - [Don't force re-usability, only if used more than twice](#dont-force-re-usability-only-if-used-more-than-twice)
   - [The art of dependencies](#the-art-of-dependencies)
   - [Think about today, and today only](#think-about-today-and-today-only)
+  - [Monolith > Microservices](#monolith--microservices)
   - [The best way to increase test coverage](#the-best-way-to-increase-test-coverage)
   - [10x developers do exist](#10x-developers-do-exist)
   - [Only refactor after providing comments](#only-refactor-after-providing-comments)
@@ -80,6 +81,11 @@ Contrary to what most people think, doing the simplest that will not scale well 
 
 Worry when you get close to that future, when you're application is proven to be useful and starts needing to scale. You'll get time to worry about that new today. You have lots of other things to prove first.
 
+### Monolith > Microservices
+
+Always go for the monolith if you can. Most of the times there's no need for a micro services architechture no matter how nice that might sound. Microservices is a buzz word to most senior developers, they're very good, but have lots of tradeoffs. 
+
+
 ### The best way to increase test coverage
 
 By deleting code. 
@@ -90,23 +96,7 @@ By deleting code.
 
 ### 10x developers do exist 
 
-The "10x Developer" is a joke around the internet. It's about this guy that's way too good and provide exponentially more impact than most other developers in the team. Think about it as a person that's 10 times better than you and it takes you 5 min to realize that this person is the best asset of the team. If they decides to leave the team, uffa! will be screwed.
-
-I know one 10x developer, maybe 2, but the second one is still on trial in my head.
-
-The one 10x developer is probably 5x better than I was when I first became mid. Meaning he had 5/6 years of experience, and I had 2/3 but he was 5 times ahead of me in all senses. If that person went on holidays, we'd all notice sometimes for the good reasons, sometimes for bad ones, like we depended too much on him and he didn't pass the baton sufficiently to every body else.
-
-He was the main lead for our strategic product. This microservices platform handling tons of intraday requests, some of them would require insanes amounts of processing, and some other would be the opposite but needed to be quick!
-
-He would be leading the technical decissions, the design, the infrastructure, the deployment processes, the product management. What we call in Costa Rica: Soyla!
-
-My boss (the Staff Engineer) was his boss, and he was very very good at delegating. He delegated lots of responsibilities to the 10x (a senior engineer) engineer and made his career extremely good at a very yound age. I bet his salary wasn't great in comparison, but his learning and growth was massive. 
-
-Anyway, if he's 5x better than me then I must be assuming I'm 2x? **No**.
-
-The above made him 5x, **he had other traits that made him 10x**. Like his social skills, his mentoring, his ability to lead and teach junior developers. If you're good, you'll be able to leverage people below you to increase your impact.
-
-What usually makes a developer 10x, is they themselves being absurdely good (5x/6x), and then leveraging good people (a few 1x/2x/3x) to work on his stuff and we help them round up to 10x.
+The "10x Developer" is a joke around the internet. But they do exist. I write about one [here](/blog?post=10x-developer).
 
 ### Only refactor after providing comments
 

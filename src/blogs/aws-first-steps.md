@@ -14,6 +14,7 @@ This post is about what I did to get acquinted with the cloud, and my thoughts o
   - [Basic cloud architecture for a static site](#basic-cloud-architecture-for-a-static-site)
   - [Certification path](#certification-path)
   - [Little cheat](#little-cheat)
+  - [Closing thoughts](#closing-thoughts)
 
 ---
 
@@ -69,13 +70,17 @@ The main reason is because we're software engineers. And we know options are the
 
 ### Certification path
 
+Amazon has a cool [certification path](https://aws.amazon.com/certification/?trk=dc557659-52ab-4a28-b2b8-0b1fb90235db&sc_channel=ps&sc_campaign=acquisition&sc_medium=GC-TC-DIG-P|PS-GO|Brand|Desktop|AW|Training%20and%20Certification|Certification|UKIR|EN|Text|xx|SEM|PMO21-12347&s_kwcid=AL!4422!3!465713397254!e!!g!!aws%20certification%20path&ef_id=EAIaIQobChMI37GVgN37-QIVtoBQBh1SnQ8xEAAYASAAEgILb_D_BwE:G:s&s_kwcid=AL!4422!3!465713397254!e!!g!!aws%20certification%20path) that teaches you everything you need to know about the services, including the billing. Technically you could become a consultant after doing a couple. I don't know who's going to hire you just like that, but maybe your company will pay more. 
 
+I think I'll do the *Foundational* for some **Certified** general awareness. And maybe even then jumping to *Associate* (requires a year of experience using AWS Cloud) in the *Solutions Architect* or *Developer* track.
+
+Anything else requires some work experience in the field to get the most out of them.
 
 ### Little cheat
 
-There's a little cheat here, and **an advice as well**. Always do the easiest and simplest as long as your product is staying to its core. 
+There's a little cheat here, and **an advice** as well. Always do the easiest and simplest as long as your product is staying to its core. 
 
-I did not deploy this in AWS jeje. It was a bit cumbersome and too feature full. Always go lightweight, to avoid being opinionated unncesarily. Any python developer will relate to this one: 
+I **did not deploy this blog in AWS** at the end jeje. It was a bit cumbersome and too feature full. Always go lightweight, to avoid being opinionated unncesarily. Any python developer will relate to this one: 
 
 >> If you can go for FastAPI or Flask then go for them instead of a fully fledged heavy solution like Django. 
 
@@ -87,12 +92,31 @@ This site is a static notebook with no DBs, passwords, internal systems, blah bl
 
 Anyway, the tutorial was too complete, and I didn't want to pollute the repo with loads of lines that I'll never touch again, and worse than anything!: **might cost me money!**
 
-I used another vendor called: 
+I used another vendor called: [Netlify](https://app.netlify.com/). It took me 5 minutes to deploy the webiste. 
+
+They connect to your github repo, pull the code, run all the necessary npm orchestra, and deploy to an URL.
+
+They also configure your DNS, so that you can change the address they give you (something like: [https://main--celadon-crisp-f3c89f.netlify.app/](https://main--celadon-crisp-f3c89f.netlify.app/)) to a domain you own. 
+
+I even was able to buy the domain directly in there because I didn't have one. Searched for it, paid for it, and they configured everything automatically. 
+
+Every time I push code into my main branch in github, they automatically re-deploy. It's seamless.
+
+It litterally took 5 min to deploy. And like an hour for me to choose which DNS domain I wanted to buy. Lol
 
 Obviously there was a benefit to doing the whole thing and learning more and being hooked with AWS, but I've learnt that doing tutorials and things like that don't really stick with me. Also, after a few years coding you build the confidence that you'll figure it out anyway. 
 
+### Closing thoughts
+
+The cloud is very cool, and it offers way too much. I mean, Amazon had an amazing technology group, and lots of infrastructure at the most perfomant level.
+
+And now they allow you to contract them to do it for you. Sounds like a good deal in practice. 
+
+This is my first time playing with the cloud, but it did leave me with some impressions which you can read [here](/blog?post=aws-first-insights).
+
 ___
+
 
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
- >I have a secret
+ > I have a secret
