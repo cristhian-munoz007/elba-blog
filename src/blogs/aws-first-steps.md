@@ -94,15 +94,13 @@ Anyway, the tutorial was too complete, and I didn't want to pollute the repo wit
 
 I used another vendor called: [Netlify](https://app.netlify.com/). It took me 5 minutes to deploy the webiste. 
 
-They connect to your github repo, pull the code, run all the necessary npm orchestra, and deploy to an URL.
+They connect to your github repo, pull the code, run all the necessary npm orchestra, and deploy to an URL. 
 
 They also configure your DNS, so that you can change the address they give you (something like: [https://main--celadon-crisp-f3c89f.netlify.app/](https://main--celadon-crisp-f3c89f.netlify.app/)) to a domain you own. 
 
-I even was able to buy the domain directly in there because I didn't have one. Searched for it, paid for it, and they configured everything automatically. 
+I even was able to buy the domain directly in there because I didn't have one. Searched for it, paid for it, and they configured everything automatically. It took me like an hour to choose which DNS domain I wanted to buy because **elba.tech** was taken already and **elba.io** was too expensive. Lol
 
-Every time I push code into my main branch in github, they automatically re-deploy. It's seamless.
-
-It litterally took 5 min to deploy. And like an hour for me to choose which DNS domain I wanted to buy. Lol
+Every time I push code into my main branch in github, they automatically re-deploy. **It takes 3 minutes** from when I hit push, to when I can see the changes reflected in [elba.fyi](https://www.elba.fyi). That's glorious bro.
 
 Obviously there was a benefit to doing the whole thing and learning more and being hooked with AWS, but I've learnt that doing tutorials and things like that don't really stick with me. Also, after a few years coding you build the confidence that you'll figure it out anyway. 
 
