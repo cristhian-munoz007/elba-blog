@@ -96,7 +96,7 @@ I used another vendor called: [Netlify](https://app.netlify.com/). It took me 5 
 
 They connect to your github repo, pull the code, run all the necessary npm orchestra, and deploy to an URL. 
 
-They also configure your DNS, so that you can change the address they give you (something like: [https://main--celadon-crisp-f3c89f.netlify.app/](https://main--celadon-crisp-f3c89f.netlify.app/)) to a domain you own. 
+They also configure your DNS, so that you can change the address they give you (something like: https://main--celadon-crisp-f3c89f.netlify.app/) to a domain you own. 
 
 I even was able to buy the domain directly in there because I didn't have one. Searched for it, paid for it, and they configured everything automatically. It took me like an hour to choose which DNS domain I wanted to buy because **elba.tech** was taken already and **elba.io** was too expensive. Lol
 
