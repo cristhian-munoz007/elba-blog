@@ -3,17 +3,17 @@
   "name": "Elba",
   "icons": [
     {
-      "src": "favicon-96.png",
+      "src": "modern-paper-ball-96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "notebook192.png",
+      "src": "modern-paper-ball-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "notebook512.png",
+      "src": "modern-paper-ball-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
