@@ -1,4 +1,4 @@
-Wouldn't say this is a blog, but more like a personal notebook. You'll get why from reading the tone of the posts. It's a view into what's in a particular person's mind. In this case, the person left Costa Rica in 2018, and is now a software engineer that works in a hedge fund in London. 
+Wouldn't say this is a blog, but more like a personal notebook. You'll get why from reading the tone of the posts. It's a view into what's in a particular person's mind. In this case, the person left Costa Rica in 2014, and is now a software engineer that works in a hedge fund in London. 
 
 You'll see stuff mostly related to software, startups and finance. I'm a technology person, but my interests are varied, which adds up to an identity crisis. In case you've never felt that, it's a journey full of ups and downs, but a journey nonetheless.
 
