@@ -106,7 +106,7 @@ Con solo el viaje gratis al otro lado del mundo, ya todo el esfuerzo de tres añ
 
 ### Y me fuí
 
-Me mudé a Abu Dhabi en Agosto del 2018. En una aventura muy cómoda financieramente (no pagué ni un cinco, más bien ellos me pagaban a mi.) que me llevó a vivir en Washington D.C., Florencia, Shanghai, New York y Londres. Me abrió las puertas a un mundo muy diferente, y a personas de todo tipo. Una experiencia que lamentablemente, es muy difícil de replicar. 
+Me mudé a Abu Dhabi en Agosto del 2014. En una aventura muy cómoda financieramente (no pagué ni un cinco, más bien ellos me pagaban a mi.) que me llevó a vivir en Washington D.C., Florencia, Shanghai, New York y Londres. Me abrió las puertas a un mundo muy diferente, y a personas de todo tipo. Una experiencia que lamentablemente, es muy difícil de replicar. 
 
 
 ---
