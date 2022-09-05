@@ -91,7 +91,7 @@ Which raises a very interesting question. Can smaller niched providers bundle up
 
 #### When is the cloud not for you?
 
-There are various reasons as to why the cloud is not your best option. However, most likely none of these really apply to you. And even if the cloud is not 100% the best option, or 90%, then once everybody is in the cloud and the cloud is the default, then remeber the rule above?:
+There are various reasons as to why the cloud is not your best option. However, most likely none of these really apply to you. And even if the cloud is not 100% the best option, or 90%, then once everybody is in the cloud and the cloud is the default, then remeber what we discussed in the first cloud [post](/blog?post=aws-first-steps):
 
 >> The default option is more often than not the best option overall. 
 
@@ -99,15 +99,15 @@ But anyway, some reasons as to why it might not be the best for you:
 
 1. **Speed**. If you're business and technology depends on too many services talking to each other throught REST then it might be a pain. Or if the cloud provider doesn't have any nearby big servers in the geography you operate in. 
 
-1. **Speed again**. I can't picture a systematic market making software deploying strategies at the sub 100ms speed need into the exchanges when there's cloud security infrastructure in the middle. I mean these guys struggle hard enough having to write in C, Rust, and No-GC Java just to gain a few seconds, for tech infra to add additional network latency. 
+2. **Speed again**. I can't picture a systematic market making software deploying strategies at the sub 100ms speed need into the exchanges when there's cloud security infrastructure in the middle. I mean these guys struggle hard enough having to write in C, Rust, and No-GC Java just to gain a few seconds, for tech infra to add additional network latency. 
 
-2. **Security**. If you're part of a secretive hedge fund, like I am, then you don't want anybody to know anything about your trades/work/data/perfomance/etc. (It's so crazy that hedge funds would rather pay you 6 months of salary in which you don't do/see anything before you go to the next shop. Basically so that the fund evolves without you know knowing how. After 6 months what you knew probably isn't useful anymore. This industry is crazy dude.)
+3. **Security**. If you're part of a secretive hedge fund, like I am, then you don't want anybody to know anything about your trades/work/data/perfomance/etc. (It's so crazy that hedge funds would rather pay you 6 months of salary in which you don't do/see anything before you go to the next shop. Basically so that the fund evolves without you know knowing how. After 6 months what you knew probably isn't useful anymore. This industry is crazy dude.)
 
-3. **Integrations with products you use**. For example we use a proprietary database technology that is so much better than SQL for our needs. But it doesn't integrate well with Google Cloud when it comes to users, permisssions, passwords, etc. So we dumped the Cloud idea because the Database provides us way more value.
+4. **Integrations with products you use**. For example we use a proprietary database technology that is so much better than SQL for our needs. But it doesn't integrate well with Google Cloud when it comes to users, permisssions, passwords, etc. So we dumped the Cloud idea because the Database provides us way more value.
 
-4. **Hardware requirements**. The cloud can provide you with very powerful machines, but if your business requires something extraordinary then Idk... 
+5. **Hardware requirements**. The cloud can provide you with very powerful machines, but if your business requires something extraordinary then Idk... 
 
-5. **You can't deal with lack of control**. This is both a pro and a con of the cloud. Con: you can't control loads of things. Pro: (and this is the Costa Rican in me talking) You can't control things, but you got someone to blame so who cares lol! 
+6. **You can't deal with lack of control**. This is both a pro and a con of the cloud. Con: you can't control loads of things. Pro: (and this is the Costa Rican in me talking) You can't control things, but you got someone to blame so who cares lol! 
 
 ### What does this mean for developers?
 
@@ -127,7 +127,7 @@ However, when you go into the actual job, you realize your boss doesn't prioriti
 
  But those days might be gone now. Cause every second in the cloud costs money, every dev/uat environment duplicates the cost of production, every failed pipeline you run will cost money. Basically if you're like me and learn by lots of trial and error before much scientific or theorical approach :( then we'll be expensive guys if we're fully hosted.
 
- My flatmate is a Finance Director at a Startup since a couple of months ago, and he's coming after the engineering costs of AWS. Believe me this guy is a HAWK! and even after spending like 2 years doing lots of meditation and prioritizing his life a lot differently. We've been hypothesizing together about why the compute costs are so high in his startup (Series C already), so I've joined that side and we both have the same intellectual stimulus.
+ My flatmate is a Finance Director at a startup since a couple of months ago, and he's coming after the engineering costs of AWS. Believe me this guy is a HAWK! and even after spending like 2 years doing lots of meditation and prioritizing his life a lot differently. We've been hypothesizing together about why the compute costs are so high in his startup (Series D already), so I've joined that side and we both have the same intellectual stimulus.
 
  If you're an engineer trying to deliver value and getting promoted from Senior to Staff, probably worth taking a look at this before your finance guy comes and takes all the credit for the idea :)
 
@@ -143,13 +143,13 @@ My brother's company is migrating their Data Lake stack into the cloud. I don't 
 
 So imagine, every piece of your work is in competition with what the guys in AWS can do. Do you really think you can beat 30-40 great Amazon engineers focusing just in this?
 
-There's an argument that you probably can do many more different things as a **Data Engineer**, but for most big companies where data is so sentive then they'll probably invest. You know what they say:
+There's an argument that you probably can do many more different things as a **Data Engineer**, but for most big companies where data is so sentive then they'll probably invest in specialized ways of doing things. You know what they say:
 
 > Bring generalists to build, and then the specialists to scale.
 
 But overall is hard to compete against these guys when it comes to SRE (site reliability engineering) and SWE (software engineering) as well. 
 
-As a *SWE*, If you're ever been in a system desing interview you probably know about the [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem). Basically life telling you hey you need to make tradeoffs, and this is not some *"hey we're just being realistic here"*, this is a *by the laws of mathematics, you gotta chose who to f marry kill*.
+As a *SWE*, If you're ever been in a system desing interview you probably know about the [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem). Basically life telling you hey you need to make tradeoffs, and this is not some *"hey we're just being realistic here"*, this is a *by the laws of mathematics, you gotta chose who to f, marry, kill*.
 
 <p align="center">
 ![capTheorem](https://miro.medium.com/max/473/1*rxTP-_STj-QRDt1X9fdVlA.png)
@@ -166,11 +166,11 @@ And here's one that helps understand a bit better what the tradoff mean:
 </p>
 
 
-I wouldn't be surprised if these guys' economies of scale soon enough allow us to break the *practical* (not theoretical) barriers of the theorem. Like they have so many servers and so much compute power that they're in memory solutions are good enough to guarante correctness or partition tolerance almost always (99.9999% of the times). And then puff, we can drop the C or the P from the theorem. 
+I wouldn't be surprised if these guys' economies of scale soon enough allow us to break the *practical* (not theoretical) barriers of the theorem. Like they have so many servers and so much compute power that they're in memory solutions are good enough to guarante correctness or partition tolerance almost always (99.999% of the times). And then puff, we can drop the C or the P from the theorem. 
 
 In your system designs (which I plan to write loads on later) you're always facing not only existential trade offs like the above. But when you get to real life you go and face also simplicity, SDLC, cost, ... tradeoffs. Which make you wonder more often than not: Do I really need this? Do I really need correctness? Do I really need those extra 300ms? Can I live with this bug? Do I really need to always be running somehow for my clients?
 
-As a **SWE/SRE**, each of those questions weight on the 5 9's goal. And how much effort you put. And even if you decide to go for 5 9's, bet you can't lol. But guess who can?
+As a **SWE/SRE**, each of those questions weight on the 5 9's goal. And how much effort you put into achieving max reliability and availability. And even if you decide to go for 5 9's, bet you can't lol. But guess who can?
 
 <p align="center">
 ![Five9sbyAWS](https://d2908q01vomqb2.cloudfront.net/9e6a55b6b4563e652a23be9d623ca5055c356940/2021/01/05/Achieving-five-nines-in-the-cloud.jpg)
