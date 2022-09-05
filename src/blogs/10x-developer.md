@@ -1,5 +1,7 @@
 ## The 10x Developer
 
+September 4, 2022
+
 The "10x Developer" is a joke around the internet. It's about this guy that's way too good and provide exponentially more impact than most other developers in the team. Think about it as a person that's 10 times better than you, and it takes you a week maximum to realize that this person is the best asset of the team. If they decides to leave the team, uffa! team will be screwed.
 
 I know one 10x developer, maybe 2, but the second one is still on trial in my head.

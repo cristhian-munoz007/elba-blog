@@ -1,5 +1,7 @@
 ## El Chante. Please steal the idea.
 
+September 3, 2022
+
 I used to work in a Venture Capital in Abu Dhabi. We basically invested in startups at various stages. You pitch to us, we like you and give you money, and help you grow.
 
 It was also my last year of university, Spring 2018. We were taking a class on innovation, and the last part of the class was to put an investment deck together and pitch an startup idea. Since I was working exactly in that field, I felt very much in the zone! We worked on a project called **El Chante**.

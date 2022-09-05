@@ -1,5 +1,7 @@
 ## Wall-IT: My first failed "startup"
 
+September 3, 2022
+
 My best friend (Jaehurn) and I tried to found this company called Wall-IT. It was meant to be a marketplace for artists to rent empty wall spaces in restaurants, cafés, etc. They would exhibit their art, while restaurants would get money and a revamped decoration every now and then.
 
 I think we did almost everything wrong and this was a very short lived project. But we learnt a lot and put our faces in the offices of some important people, so I guess we won.

@@ -18,7 +18,9 @@ Don't forget it's just a notebook, and it's poorly editted. There aren't many im
 
 1. [On ESG investing: a view from the inside- Apr 28, 2020](/blog?post=on-esg)
 1. What's an Asset Manager? (coming up)
-1. What's a Hedge Fund? (Me right now) (coming up)
+2. [What's a Hedge Fund? (Me right now) - Sep 5, 2022](/blog?post=what-is-a-hedge-fund))
+3. Invest, don't trade. (coming up)
+
 
 ### Startups
 
@@ -26,7 +28,6 @@ Don't forget it's just a notebook, and it's poorly editted. There aren't many im
 2. [El Chante: a walk-through an investment deck - Sep 3, 2022](/blog?post=el-chante)
 3. [Wall-IT: My first failed "startup" - Sep 3, 2022](/blog?post=wall-it)
 4. Designing Fintual - The Business (coming up)
-5. Invest, don't trade. (coming up)
 
 ### My story
 
