@@ -37,23 +37,13 @@ Vieras que varas de roco el que me pateó. Solo decía:
 
 >> La matemática es hermosa y elegante.
 
-*Igual que vos carepicha* pensabe en mis adentros. Y se veía así más o menos para que se den una idea:
-
-<p align="center">
-![lawyer](https://i.kym-cdn.com/photos/images/facebook/001/882/990/ce0.jpeg)
-</p>
+*Igual que vos carepicha!* pensaba en mis adentros. 
 
 ### Fui a la NASA
 
-En 11mo mi mamá estaba viendo **Buen Día**, que estaban entrevistando a unos muchachos queron a la NASA gracias a una beca. Costa Rica tenía dos campos al año, los patrocinaba Estrategia Siglo XXI y el Banco Popular. Me dijo: *usted por qué no aplica?* Y yo ni reaccioné. Pero al final gané la beca, junto con Sofía Valenciano, y fuimos en el 2013 cuando yo estaba en 12mo. 
+En 11mo mi mamá estaba viendo **Buen Día**, que estaban entrevistando a unos muchachos queron a la NASA gracias a una beca a un programa de dos semanas. Se llamaba *Escuela del Espacio* e iban estudiantes apasionados por la ciencia de todo el mundo. Costa Rica tenía dos campos al año, los patrocinaba Estrategia Siglo XXI y el Banco Popular. Me dijo: *usted por qué no aplica?* Y yo ni reaccioné. Pero al final gané la beca, junto con Sofía Valenciano, y fuimos en el 2013 cuando yo estaba en 12mo. 
 
 Fueron dos semanas increíbles, mi primera vez fuera del país. Y ahí conocí al jefe de propulsión de BOEING. Un italiano, Francesco Fusco. El me dió una carta de recomendación que creo fue la que me ayudó masivamente a entrar a NYU. En ese viaje fue la primera vez que conocí a Franklin Chang Díaz también.
-
-<p align="center">
-![nasaBaile](https://scontent-lhr8-2.xx.fbcdn.net/v/t1.18169-9/1003517_549785535069792_477242890_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=yTWGWDowQsAAX8OlRF6&_nc_ht=scontent-lhr8-2.xx&oh=00_AT_xR_eguOqsUB23pc32l4NKXCnjlz3BQwx28LZdBLEKqA&oe=63359736)
-*Sofi y yo bailando Tampico en la noche cultural*
-</p>
-
 
 Esa beca casi la pierdo porque el comité pensaba que era muy viejo y que ya estaba en la Universidad, porque en mi CV estaba que iba de oyente a la UCR. Si no fuera por mi mamá que de la nada llamó preguntar, y de paso les aclaró.
 
@@ -84,7 +74,7 @@ Todo undécimo y duodécimo estudiando para los exámenes, los repetí algunos, 
 
 Tomé el *SAT reasoning* (2 veces y en las dos horribles), *SAT Math 1*  (760/800), *SAT Math 2* (800/800), *Physics* (760/800), y *History of the US* (~640/800)
 
-En total los libros era como 1200 páginas de preparación.
+En total los libros era como 1200 páginas de matemáticas, física, historia, comprensión de lectura y escritura.
 
 <p align="center">
 ![sat](https://media.karousell.com/media/photos/products/2015/04/09/sat_books_value_pack_6_books_1428550048_c6697cd7.jpg)
@@ -106,11 +96,13 @@ Con solo el viaje gratis al otro lado del mundo, ya todo el esfuerzo de tres añ
 
 ### Y me fuí
 
-Me mudé a Abu Dhabi en Agosto del 2014. En una aventura muy cómoda financieramente (no pagué ni un cinco, más bien ellos me pagaban a mi.) que me llevó a vivir en Washington D.C., Florencia, Shanghai, New York y Londres. Me abrió las puertas a un mundo muy diferente, y a personas de todo tipo. Una experiencia que lamentablemente, es muy difícil de replicar. 
+Me mudé a Abu Dhabi en Agosto del 2014. En una aventura muy cómoda financieramente (no pagué ni un cinco, más bien ellos me pagaban a mi) y que me llevó a vivir en Washington D.C., Florencia, Shanghai, New York y Londres. Me abrió las puertas a un mundo muy diferente, y a personas de todo tipo. 
+
+Una experiencia que lamentablemente, es muy difícil de replicar. 
 
 
 ---
 
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
- > "Habibi, hayati"
+ > "Habibi, Mashallah!"
