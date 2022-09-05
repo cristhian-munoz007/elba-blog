@@ -193,3 +193,10 @@ Poeple say that these days you gotta have a portfolio and a packed github to mak
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
  > "Consejos de mi tía Panchita"
+
+
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>

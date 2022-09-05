@@ -10,7 +10,7 @@ This post is about what I did to get acquinted with the cloud, and my thoughts o
 
 
 - [AWS (1/2): First Steps](#aws-12-first-steps)
-  - [How to jump into it (Split this into generally and what I did)](#how-to-jump-into-it-split-this-into-generally-and-what-i-did)
+  - [How to jump into it](#how-to-jump-into-it)
   - [Basic cloud architecture for a static site](#basic-cloud-architecture-for-a-static-site)
   - [Certification path](#certification-path)
   - [Little cheat](#little-cheat)
@@ -30,7 +30,7 @@ I met a guy had amazing career in the best investment bank in the world and was 
 
 Yeah, that's just... idk... you make your conclussions. Obviously most developers at GS know what git is, but this guy had been working in Slang all his life. How can somenone not know GIT!? Well, as a young developer with 4 years in, I kind of felt similar by not having any real experience with the cloud, and worse than anything, such poor awareness.
 
-### How to jump into it (Split this into generally and what I did)
+### How to jump into it
 
 Amazon AWS is probably the most famous and the most impressive. I knew some basic stuff because of Software Design interview questions. But if you've ever had one of those interviews, you know you can go ahead asuming everything is a black box :) 
 
@@ -118,3 +118,10 @@ ___
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
  > I have a secret
+
+
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>

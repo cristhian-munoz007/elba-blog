@@ -35,7 +35,7 @@ const options = {
         gutterBottom: true,
         variant: 'subtitle',
         paragraph: true,
-        sx: { color: "#4a4a4a", fontWeight: "bold" }
+        sx: { color: "#9b4dca", fontWeight: "bold" }
       },
     },
     p: {

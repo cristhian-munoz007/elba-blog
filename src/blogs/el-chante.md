@@ -213,3 +213,11 @@ Anyway, my biggest hope would be for anybody to steal this and do something. Or 
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
  > "VC bros in Patagucci vests"
+
+
+
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>

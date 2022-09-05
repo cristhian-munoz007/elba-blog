@@ -98,3 +98,10 @@ It's been more than 2 years since I wrote the above, and a few things that have 
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
  > "Hey mate, I sell tobacco"
+
+
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>

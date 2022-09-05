@@ -201,3 +201,8 @@ If you want to chat about **anything** in this post, please reach out to any of 
  >I have a secret
 
 
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>

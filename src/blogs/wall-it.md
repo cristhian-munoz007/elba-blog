@@ -187,3 +187,10 @@ We still believe in the idea. I actually once saw it in a café in London, and i
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
  > "Another brick in the Wall"
+
+
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>

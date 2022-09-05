@@ -106,3 +106,10 @@ Una experiencia que lamentablemente, es muy difícil de replicar.
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
  > "Habibi, Mashallah!"
+
+
+<p>&nbsp;  </p>
+
+<p align="center">
+ [Back to the notes?](/home)
+ </p>
