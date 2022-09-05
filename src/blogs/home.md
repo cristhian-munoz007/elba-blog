@@ -16,10 +16,10 @@ Don't forget it's just a notebook, and it's poorly editted. There aren't many im
 
 ### Finance
 
+1. [I work at a Hedge Fund. (like Billions in Netflix) - Sep 5, 2022](/blog?post=what-is-a-hedge-fund)
 1. [On ESG investing: a view from the inside- Apr 28, 2020](/blog?post=on-esg)
 1. What's an Asset Manager? (coming up)
-2. [What's a Hedge Fund? (Me right now) - Sep 5, 2022](/blog?post=what-is-a-hedge-fund))
-3. Invest, don't trade. (coming up)
+1. Invest, don't trade. (coming up)
 
 
 ### Startups

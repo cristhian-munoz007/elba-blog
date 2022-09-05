@@ -4,6 +4,8 @@ September 5, 2022
 
 A Hedge fund is one of the types of investment funds / money managers that manage large sums of money. What differentiates a hedge fund from the rest, is that it promises to give **uncorrelated** returns with the market.
 
+I work for one of them in London. With offices all over the world.
+
 - [What's a hedge fund](#whats-a-hedge-fund)
   - [How they do it?](#how-they-do-it)
   - [Fees](#fees)
