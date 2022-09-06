@@ -6,11 +6,13 @@ This is a very old memo that I wrote in my previous company. We did Investment G
 
 >Client *Dos Pinos* doesn't want us to buy bonds from its competitors. So we would screen every trade to make sure nobody's buying bonds from *Coronado*.
 
-This grew into ESG (Environmental, Social, Governance). And I was the person responsible for ESG Guidelines. So the examples starting looking more like this:
+This grew into ESG (Environmental, Social, Governance). And I was the person responsible for ESG when it came to Investment Guidelines tech. So the examples starting looking more like this:
 
 >Client *Dos Pinos* doesn't want us to buy bonds from companies that pollute. So we would screen every trade to make sure nobody's buying bonds from *Repsol* which is an oil company.
 
-Anyway the industry has thankfully evolved over the past few years, at least in Europe and U.S., and I've got a bit dettached. But if you're in the field you'll have an opinion:
+Anyway the industry has thankfully evolved over the past few years, at least in Europe and U.S., and I've got a bit dettached. But if you're in the field you'll have an opinion.
+
+Lots of things are adjusted for censorship and don't apply anymore. 
 
 
 - [On ESG: view from the inside](#on-esg-view-from-the-inside)
@@ -24,7 +26,7 @@ Anyway the industry has thankfully evolved over the past few years, at least in 
 
 April 28, 2020
 
-We have 72 attributes in Sentinel, but only 69 are effectively screeners from MSCI. Of those 69, 63 apply to corporates, and out of those 63:
+We have 72 attributes in *censored*, but only 69 are effectively screeners from *sensored*. Of those 69, 63 apply to corporates, and out of those 63:
 - 40 are screens related to how much percent of the total revenue for the company come from an activity/industry.
 - 16 are screens related to being tied to an activity/industry.
 - 6 are related to controversies.
@@ -33,18 +35,17 @@ None of the screeners are related to proactive actions or sole business practice
 
 When we go and code rules to stop trading on companies that have revenue coming from an activity, we are not really giving a premium on companies that exert ESG practices. We are effectively punishing industries. A company like LVMH, gets punished solely for producing alcohol, while we’re deaf to how ESG is the business from within.
 
-There is nothing on our process right now that favors companies embracing sustainability within their industries. We don’t have a data point that favors Ford, a company that has invested a lot of money over the years on being fuel efficient and having energy efficient production plants.
+There is nothing on our process nor in the industry itself, that favors companies embracing sustainability within their industries. We don’t have a data point that favors Ford, a company that has invested a lot of money over the years on being fuel efficient and having energy efficient production plants.
 
 We don’t have a data point that reflects companies like Unilever’s catalogue of sustainable products. We don’t have a data point that favors a company that reduces its energy and water consumption on a year to year basis.
 
-Let’s look at Goldman Sachs itself. If you see the sustainability report for last year, you’ll see a section on how we reduced our operational impact on the environment starting on page 43. Goldman is adhering to the Sustainability Accounting Standards Board (SASB), which means that it is quantifying its impact, and reporting its progress using an industry standard, and then simplifying the labor of ESG screening data providers like MSCI to distribute this data to its clients. 
+Let’s look at Goldman Sachs itself. If you see the public sustainability report for last year, you’ll see a section on how we reduced our operational impact on the environment starting on page 43. Goldman is adhering to the Sustainability Accounting Standards Board (SASB), which means that it is quantifying its impact, and reporting its progress using an industry standard, and then simplifying the labor of ESG screening data providers like MSCI to distribute this data to its clients. 
 
-However, none of this comes our end, none of this quantified effort gives a systematic edge for investors when they come and requests for ESG guidelines. Today, **our firm’s ESG score is low enough that none of our ESG clients can invest directly in us**, I wonder for how much longer they’ll be able to invest through us. (See the report [here](https://bit.ly/2VIILHO))
+However, none of this comes our end, none of this quantified effort gives a systematic edge for investors when they come and requests for ESG guidelines. Today, **our firm’s ESG score is low enough that some of our ESG clients can't invest directly in us**, I wonder for how much longer they’ll be able to invest through us. (See the report [here](https://bit.ly/2VIILHO))
 
-All those practices are sustainable business strategies that although seem small, are core to the sustainability identity of a company that goes beyond just investing loads of money into social, or green projects. Sustainability is core to their identity, while for a company that simply pumps a lot of money into  external projects, sustainability is just doing PR. That ingrained identity is what I thought we were generally pushing for, what I thought took the most time in TV when executives go and talk about ESG efforts. But so far it looks like we’re helping our clients shrink their portfolio from generally risky industries.
+All those practices are sustainable business strategies that although seem small, are core to the sustainability identity of a company that goes beyond just investing loads of money into social, or green projects. Sustainability is core to their identity, while for a company that simply pumps a lot of money into  external projects, sustainability is just doing PR. That ingrained identity is what I thought we were generally pushing for, what I thought took the most time in TV when executives go and talk about ESG efforts. But so far it looks like we’re helping our clients shrink their portfolio from generally risky industries. I mean not only us, all other asset managers as far as I know.
 
-I’m starting a course on Sustainable Business Strategies at HBSx tomorrow, and I remember mentioning to one of you that it would be exciting to know what some of the practices were that turned firms into ESG compliant investments for our clients. However, the truth is that sustainable practices in the companies we invest in are completely off our radar. And so, it feels like the course’s topic is completely unrelated to what we do. Probably one of the reasons why I had to
-pay it and would get no company sponsorship.
+I’m starting a course on Sustainable Business Strategies at HBSx tomorrow, and I remember mentioning to one of you that it would be exciting to know what some of the practices were that turned firms into ESG compliant investments for our clients. However, the truth is that sustainable practices in the companies we invest in are completely off our radar. And so, it feels like the course’s topic is completely unrelated to what we do. Probably one of the reasons why I had to pay it and would get no company sponsorship.
 
 We’re not providing premiums to the companies that embrace sustainability. We’re providing edge to companies that simply aren’t part of blacklisted industries, and that have been careful enough to not be involved in any controversy.
 
@@ -52,19 +53,18 @@ We’re not providing premiums to the companies that embrace sustainability. We�
 
 GSAM sits at a place in the industry where we know what raw data providers can provide, and what the clients want implemented. I hope this is something we’re even tracking. Do clients reach out to us and ask only to blacklist industries and exceptionally bad practices? or Do they reach out to us asking to provide a portfolio where companies provide purpose and practice sustainable business strategies and it’s simply that we’re not able to provide?
 
-In other words: Do clients reach out to us with this language:
+In other words: Do clients reach out to asset managers with this language:
 1. I don’t want my money on companies that make money from this ... or that are simply controversial.
 
 or with this language:
 
 2. I want my money on companies that do this ...
 
-If it’s the latter (2), and they want a portfolio where companies have proactive ESG practices, instead of just lack of negatives statistics, GSAM might not able to provide such because the data isn’t there. Because our data provider hasn’t been able to quantify it properly, and so our clients are asking for something we can’t provide (yet). However, MSCI has these data already, I can see huge amounts of related data points in QSP. Data points like employee satisfaction, year-
-to-year carbon emissions, labor rights diversity scores, etc.... GSAM is then technically ready to offer portfolios composed of proactive ESG practitioners.
+If it’s the latter (2), and they want a portfolio where companies have proactive ESG practices, instead of just lack of negatives statistics, GSAM might not able to provide such because the data isn’t there. Because our data provider hasn’t been able to quantify it properly, and so our clients are asking for something we can’t provide (yet). However, MSCI has these data already, I can see huge amounts of related data points in their dataset. Data points like employee satisfaction, year-to-year carbon emissions, labor rights diversity scores, etc.... GSAM is then technically ready to offer portfolios composed of proactive ESG practitioners.
 
 That means that there is a chance that clients are reaching to us with the former language (1), **and then life is a bit sadder**. If our clients reach out to us to simply block certain industries, then they’re not getting the point. Or at least the point that millennials want to make. They’re simply trying to de-risk and make a huge PR campaign by staying away from bonds issued by the most obvious “non-ESG” industries like tobacco and oil.
 
-We don’t have a single rule coded on the number of women in board, effective waste management, labor management scores, employee satisfaction, human capital development, health safety scores... Is it because we haven’t encountered any sophisticated clients? or are our systems creating a bottleneck?
+Do we have a single rule coded on the number of women in board, effective waste management, labor management scores, employee satisfaction, human capital development, health safety scores...? Is it because we haven’t encountered any sophisticated clients? or are our systems creating a bottleneck?
 
 ## On ESG Data
 
@@ -79,17 +79,19 @@ However, methodology is something we could study, and see which one we think has
 > --<cite>[Berg, Koelbel, Rogobon; 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3438533)</cite>
 
 
-So, whenever we’re discussing whether Bloomberg is better than MSCI, or that Bloomberg covers more companies, do we also care about the depth and methodology they’re using? Which provider do we think might have the edge in the business? The one with the most covered companies might not suffice. I can’t imagine us losing clients because we’re using a rating that is too complacent or too tight, which I believe is the same competition Moody’s and S&P have been getting into for ages.
+So, whenever we’re discussing whether provider A is better than provider B, or that provider A covers more companies, do we also care about the depth and methodology they’re using? Which provider do we think might have the edge in the business? The one with the most covered companies might not suffice. I can’t imagine us losing clients because we’re using a rating that is too complacent or too tight, which I believe is the same competition Moody’s and S&P have been getting into for ages.
 
 And if there is not much to do, that at least we were aware of the risks and we’re ready to answer the questions. I know there is a call on ESG data running weekly, which I haven’t participated in for a while, so mind me if this is something that has been ultra-analyzed and mega answered.
 
 ---
 
-It's been more than 2 years since I wrote the above, and a few things that have changed:
+It's been more than 2 years since I wrote the above. We were in pampers compared to where we are now. I generally like how things have evolved there. Not sure I agree with everything, but at least we're a more complex player. 
+
+Few of the things that have changed:
 
 - The rules have evolved into using more proactive and social inclusive paramteres. Women on board became actually one of the most famous.
 
-- GSAM started creating it's own ESG scores. Which I feel only add to the problem of low correlation, but gave us a nice way to influence, share our perceptions, and differentiate from our competitors. 
+- GSAM started creating it's own ESG scores. Which I feel only adds to the problem of low correlation, but gave us a nice way to influence, share our perceptions, and differentiate from our competitors. 
 
 - Regulation changed and we had to do a looooot of other things like Company engagements. Meaning that if we're investing into a company through an *ESG branded* fund, then we had to have constant catchups with the board of directors in order to push the sustainability agenda. (This was a bit weird...)
 
