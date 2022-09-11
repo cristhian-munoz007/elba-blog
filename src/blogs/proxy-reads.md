@@ -151,7 +151,7 @@ Range is also a great quality to attain if you're intellectualy curious. It's to
 
 Paul Graham is a co-founder of YCombinator. An accelerator I speak briefly about in the [Wall-It post](/blog?post=wall-it). Paul is obviously very successful, influential, and a strong thinker. His writting is in the form of essays rather than blogging. So you'll see how his thoughts are a lot more structured and dense.
 
-A friend of mine is constantly sharing me his essays. He finds him inspiring, and honestly so does the rest of the industry. His site [paulgraham.com](http://paulgraham.com/articles.html) is about lots of things, but he touches on social issues, startups, technology, life, ...
+A friend of mine is constantly sharing me his essays. He finds him inspiring, and honestly so do I and so does most of the industry. His site [paulgraham.com](http://paulgraham.com/articles.html) is about lots of things, but he touches on social issues, startups, technology, life, ...
 
 Anyway, this is a highly intellectual person, with technically a "low profile", so it's hard to dislike.
 
@@ -166,10 +166,10 @@ These are some of the last essays I've read, and the most impressive thing is th
 
 The all-in podcast is four dudes chatting and talking crap about tech, business, politics, society, etc. Who are these dudes? Well they are very successfull entrepreneus, and now VC investors. They're all very well connected accross the VC and the tech world.
 
-1. Chamath Palihapitiya. He became famous with Social Capital, and with Facebook. (If you're in finance, you might know Chamath because he is the one that created the SPACs :)) 
-1. Jason Calacanis. Few startups, then successful investor.
-2. David Sacks. Paypal guy that became rich together with Elon Musk. Then invested in Facebook, Uber, SpaceX, Palantir, Airbnb.
-3. David Frieberg. He's an inventor, but also was an early employee in Google. He focuses on startups related to food, decarbonization, and life sciences.
+1. **Chamath Palihapitiya**. He became famous with Social Capital, and with Facebook. (If you're in finance, you might know Chamath because he is the one that created the SPACs :)) 
+1. **Jason Calacanis**. Few startups, then successful investor.
+2. **David Sacks**. Paypal guy that became rich together with Elon Musk. Then invested in Facebook, Uber, SpaceX, Palantir, Airbnb.
+3. **David Frieberg**. He's an inventor, but also was an early employee in Google. He focuses on startups related to food, decarbonization, and life sciences.
 
 Contrary to Paul Graham's site, this pod is all about the recent news of the week or what's going on in the world right now. Some of the things I can remember that they've recently taken on are: Twitter's deal, housing laws in California, McDonalds' pay rise, Softbank, Adam Neumann's new startup, Inflation, China vs the US, Pelosi visiting Taiwan, the FBI intruding in Trump's mansion, the crash in public markets, Crypto crash, Apple firing employees because of political correctness, etc...
 
@@ -186,6 +186,8 @@ Staying up to date in tech is beyond impossible. The pace of innovation is overw
 You can give up, go away from the field or let your boss tell you what technology direction to take.
 
 Or you can give up, by simply not letting yourself get overwhelmed and enjoy the process of just knowing a bit more of something. Even if you know you'll never get as far as it's possible.
+
+Strive for the second one, and to find the ways and topics you like most. 
 
 --- 
 
