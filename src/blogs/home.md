@@ -38,7 +38,8 @@ Don't forget it's just a notebook, and it's poorly editted. There aren't many im
 These ones are a bit more personal and it's the past. But maybe if you're a high school student or a curious person of what's like to work and live in abroad then it could help. Don't be surprised if I write them in Spanish.
 
 1. [18 y/o: Full ride scholarship in Abu Dhabi (in Spanish) - Sept 2, 2022](/blog?post=nyuad-scholarship)
-2. New York. (coming up)
-3. London. (coming up)
-4. Why I voted for Frente Amplio in the last election (coming up)
-5. Quantity over Quality (coming up)
+2. [Do > Be > Have - Sep 16, 2022](/blog?post=do-be-have)
+3. New York. (coming up)
+4. London. (coming up)
+5. Why I voted for Frente Amplio in the last election (coming up)
+6. Quantity over Quality (coming up)
