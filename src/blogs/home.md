@@ -12,8 +12,9 @@ Don't forget it's just a notebook, and it's poorly editted. There aren't many im
 1. [Things I've learnt in my SWE career (and counting) - Sept 1, 2022](/blog?post=things-i-learnt-swe)
 2. [The 10x developer - Sep 4, 2022](/blog?post=10x-developer)
 2. [Proxy Reads. Staying up to date with tech - Sep 11, 2022](/blog?post=proxy-reads)
-3. Designing Fintual - The Tech (coming up)
-4. Little tricks on query optimization (coming up)
+3. [Coding don't cut it anymore - Oct 6, 2022](/blog?post=coding-dont-cut-it)
+4. Designing Fintual - The Tech (coming up)
+5. Little tricks on query optimization (coming up)
 
 ### Finance
 
