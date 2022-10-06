@@ -6,7 +6,7 @@ Overall, his point is that complexity has made our jobs a lot harder. My point o
 
 I'd like to think that Carey would agree with me to a certain extent given that the line that caught me thinking about all of this was this one:
 
-> “Given the demand for software developers today, companies don’t have the leverage to push developers towards a mental model of primarily delivering value to their customers,” Etheridge said. “Getting more engineers to think that way is a challenge.”
+> “Given the demand for software developers today, companies don’t have the leverage to push developers towards a mental model of primarily delivering value to their customers,” Etheridge said. **“Getting more engineers to think that way is a challenge.”**
 
 - [Coding don't cut it anymore - The job market](#coding-dont-cut-it-anymore---the-job-market)
   - [Too many options out there.](#too-many-options-out-there)
@@ -21,7 +21,11 @@ In the subsection of *Essential vs Accidental* complexity, the author talks abou
 
 However, we also put lots of tooling, and technologies, and design, and layers and layers of abstraction that eventually bite us back. That's **accidental** complexity.
 
-Such accidental complexity is hard to avoid, it'd probably take for us to be very senior to become good at it. I adventure to say it's nevertheless impossible to avoid. For two main reasons:
+Such accidental complexity is hard to avoid, it'd probably take for us to be very senior to become good at it. I adventure to say it's nevertheless impossible to avoid. For three main reasons: 
+
+1. there's too many options, 
+2. we love what we do among anything else, 
+3. and the job market let us abuse number 2.
 
 ### Too many options out there. 
 
@@ -61,7 +65,7 @@ Then, jobs and people kept going up. But certain companies figured the talent wa
 
 In the meantime jobs like web services in the most famous languages (Java, Python) became a lot cheaper, because there were a lot of people able to do it. And even were outsourced in masses to developing economies. 
 
-But there was that group of fellows in high demand that companies had to compete with. (I'm going to include myself there because new grads in big tech and finance are part of that group) And suddently we wanted to use flashy technologies, and didn't want to touch 20 year old code that worked way better than newer code, and wanted to create impact on the team by migrating from one technology to the next hottest. 
+But there was that group of fellows in high demand that companies had to compete with. (I'm going to include myself there because new grads in big tech and finance are part of that group, and I'm not going to say anything possitive anyway :)) And suddently we wanted to use flashy technologies, and didn't want to touch 20 year old code that worked way better than newer code, and wanted to create impact on the team by migrating from one technology to the next hottest. 
 
 Sometimes that's necessary, for example moving from Angular to React to be more future proof, but it's hard to justify you want to move from React to Vue for example. But those were what we thought are the easy paths to create impact. And that we would justify as necessary to the business since we need to stay up to date, and be in the edge so that we could attract the top talent. 
 
@@ -69,15 +73,19 @@ Sometimes that's necessary, for example moving from Angular to React to be more 
 
 ##### Entitlement
 
+We love to do what we do. To play with new stuff, and see what's out there, and get a feeling for it. And reinvent the wheel sometimes. And be opinionated and criticize software that just works perfectly fine. And work on the newest stuff, and evangelize it. All that's stuff it's pretty **flashy!** And we deserve to do it. That's why we chose this profession, to have fun and exercise it.
+
 But also sometimes the most impactful work for the business is not the flashiest. It's the one about touching the old code and changing one line and suffering through the deployment process, or using excel, or vim into a file, or using power point, or keep the code running in a certain way which works perfectly even if you have the urge to re-write the shit out of it for no reason.
 
-Doing those kinds of work keeps you business aligned. Sometimes it's not flashy, and you code a lot less, but engineering is bigger than coding, and keeps you well rounded. 
+Doing those kinds of work keeps you business aligned. Sometimes it's not flashy, and you code a lot less, but engineering is bigger than coding.
 
-But in the past, given the high demand for us, **we could get away with not doing those things.** We could get away with saying you know what: if your company isn't doing the latest or coolest tech, and if you don't let me do experiments and create impact the way I want, and have my own agenda while you pay me the big bucks, and just work half the day, then I'm just going to **leave**. Because Amazon is hiring like crazy, and I come from Microsoft so they'll like me, and they'll pump my salary at the end of the day.
+In the past, given the high demand for us, **we could get away with not doing those things.** We could get away with saying you know what: if your company isn't doing the latest or coolest tech, and if you don't let me do experiments and create impact the way I want, and have my own agenda while you pay me the big bucks, and just work half the day, then I'm just going to **leave**. Because Amazon is hiring like crazy, and I come from Microsoft so they'll like me, and they'll pump my salary at the end of the day.
 
 We could complain to our bosses: hey why are not better at pusing back on the Product/Project manager and telling him/her to fuck off while I create an event-driven logging system so that I can see the logs in a UI rather than in a box, because I dont know how to use the linux CLI.
 
-Finally, loyalty is dead. The culture is now to move quickly and often to increase compensation (not gonna lie, **it's the only way sometimes**), and the social pressure has turned into celebrating moving often rathen than climbing up in stability.
+I mean loyalty is dead anyway. The culture is now to move quickly and often to increase compensation (not gonna lie, **it's the only way sometimes**), and the social pressure has turned into celebrating moving often rather than climbing up in stability.
+
+So those factors created an environment where we were entitled to play with the cool stuff to a certain extend, because we could just jump shit otherwise.
 
 #### Looking forward, it won't hold
 
@@ -85,19 +93,21 @@ Now, the tech world is crashing. And there's a lot of us engineers anyway.
 
 Too many people that were meant to do other things are now in the field becuase of the high pay. And I figure that if the high pay goes away, so will they (and I - because I am a mercenary too).
 
-Anyway what does this mean? A tech world crashing in valuation and cash flow means that the salary inflation is going to stop. 
+A tech world crashing in valuation and cash flow means that the salary inflation is going to stop. 
 
-The world is a constant cycle of expansion and contraction until it finds balance. But the balance is lost eventually, or we never knew we achieved it, and we loss it and start the cycle again.
+The world is a constant cycle of expansion and contraction until it finds balance. But the balance is lost eventually. Or we never knew we achieved it, and we loss it and start the cycle again.
 
 It's been 22 years of expansion. Expansion of jobs, salaries, ego, importance, university graduates, careers, certification paths, outsourcing, company valuations, VC money... Now it would be natural to have a time of contraction in a few of those in the list.
 
 I'm part of [**Blind**](https://www.teamblind.com/). It's a community you can access only with your corporate email, and it's mostly software engineers in big tech, finance, etc... The way it works is that it is annonymous and you can post polls, and questions, and gossip, and ask for advice. I've used it a couple of times to ask people in the company I was interviewing with whether the salary that company was offering me was good enough or not according to the insiders. It's pretty useful.
 
-Anyway, every day I see posts about Amazon and Microsoft freezing hiring. Google thinking of layoffs, Meta doing the layoffs already. Other companies rescinding the offers to their interns. Anyway lots of gossip on that front. But gossip in Blind has historically became true. 
+Anyway, every day I see posts about Amazon and Microsoft freezing hiring. Google thinking of layoffs, Meta doing the layoffs already. Other companies rescinding the offers to their interns. I recently checked for MSFT jobs in Costa Rica and found a lot less that in May when I last checked.
 
-Harsher times are comming. And it's natural. And I think it's **healthy**! Because it will reduce the number of us in the field that simply joined by proximity and that without the lack of passion wouldn't survive the pace of the field anyway. And becuase it might for a second help us fight the deflationary pressure the crash will put on salaries. 
+Anyway lots of gossip on that front. But gossip in Blind has historically became true. 
 
-But jobs will be lost, and **so is lost the massive leverage software developers used to have to do whatever the fuck we wanted to.** 
+Harsher times are comming. And it's natural. And I think it's **healthy**! Because it will reduce the number of us in the field that simply joined by proximity and that without the lack of passion wouldn't survive the pace of the field anyway. It might for a second help fight the deflationary pressure the crash will put on salaries. But it's a challenge, a challenge for me and for you who are just starting on this. 
+
+But jobs will be lost, and **so is lost the massive leverage software developers used to have to do whatever the fuck we wanted to do.** 
 
 Now, every company will have to re-evaluate the business impact of their tech force. And only those who are aligned with it will keep their leverage. 
 
@@ -119,7 +129,7 @@ records in a single page on a web application or why they shouldn’t
 pass out links to your development server. This is how your business
 clients feel about you: Imagine how much easier it would be to work with these programmers if they just understood what I was asking them for without me having to dumb everything down and be so ridiculously specific! And, guess what? It’s the business that pays your salary.
 
-This is the one thing that finance, specially hedge funds do right. Align the technology interests with the profits, over exploratory and over controlled environments that are too technologically mature.
+This is the one thing that finance, especially hedge funds do right. Align the technology interests with the profits, over exploratory and over controlled environments that are too technologically mature.
 
 And again, I think it's healthy. I don't know if that should be the actual equilibrium the industry should head towards. But I feel that a little contraction was necessary to humble us down and for us young developers to become less entitled and more ready to dig on any kind of tech our company needs us to. Because we will learn a lot, and if we stand past this hiring freezes and layoffs and etc, we'll probably going to excel at it.
 
@@ -128,7 +138,7 @@ And again, I think it's healthy. I don't know if that should be the actual equil
 
 If you want to chat about **anything** in this post, please reach out to any of the below social media and hit me with the line:
  
- >Oh no, my salary!
+ >It's complex mate!
 
 
 <p>&nbsp;  </p>
