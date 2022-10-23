@@ -30,8 +30,9 @@ Don't forget it's just a notebook, and it's poorly editted. There aren't many im
 1. What's a Venture Capital (coming up)
 2. [El Chante: a walk-through an investment deck - Sep 3, 2022](/blog?post=el-chante)
 3. [Wall-IT: My first failed "startup" - Sep 3, 2022](/blog?post=wall-it)
-4. Designing Fintual - The Business (coming up)
-5. 22 y/o: 80 hour work weeks in Venture Capital in Abu Dhabi (coming up)
+4. [MoMoney Manifesto - Oct 23, 2022](/blog?post=mo-money-manifesto)
+5. Designing Fintual - The Business (coming up)
+6. 22 y/o: 80 hour work weeks in Venture Capital in Abu Dhabi (coming up)
 
 
 ### My story
