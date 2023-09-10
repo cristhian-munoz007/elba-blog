@@ -75,7 +75,7 @@ A strategy is like the philosophy a fund will follow to try and make money. It d
 
 There are many strategies to be honest, and Investopedia will tell you more [here](https://www.investopedia.com/articles/investing/111313/multiple-strategies-hedge-funds.asp)
 
-I'll chat a bit about the one we use at [WorldQuant](https://worldquant.com/): Statistical Arbitrage, or StatArb.
+I'll chat a bit about Statistical Arbitrage, or StatArb.
 
 #### Statistical arbitrage
 
@@ -177,7 +177,7 @@ James Simons is a pretty inspiring person, specially if you like science and mat
 
 But for a quick primer watch [this](https://www.youtube.com/watch?v=lji-jNsXmAM) on youtube. 
 
-There are other extremely sucessful funds, which you'll see in that youtube channel too. The best ones are: Citadel, Jane Street, DE Shaw, Two Sigma, HRT, and Millenium (parent of WorldQuant) of course :)
+There are other extremely sucessful funds, which you'll see in that youtube channel too. Some of them are: Citadel, Jane Street, DE Shaw, Two Sigma, and HRT.
 
 ### Closing thoughts
 
