@@ -236,7 +236,7 @@ Now, I'm the guy asking all of my friends for help, guys that could perfectly be
 
 God bless you lads!
 
-Anyway, **I'm not going home any time soon :(**. I mentioned at the top that I was actually starting a new job. I'm having a lot of fun in [WorldQuant](https://www.worldquant.com/). More on this in my post on [What is a hedge fund](/blog?post=what-is-a-hedge-fund).
+Anyway, **I'm not going home any time soon :(**. I mentioned at the top that I was actually starting a new job. I'm having a lot of fun in my hedge fund job.
 
 But Costa Rica doesn't work for me yet. I knew that it was going to be hard, and that it will hit in many ways to return. It's gonna have to be a very well architected project. 
 
